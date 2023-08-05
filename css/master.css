@@ -1,8 +1,12 @@
 h1{
     background-color: aqua;
-<<<<<<< HEAD
-} 
-=======
     text-align: center;
-}
->>>>>>> 4be55832df405a7c262e0bce283c4121ff4422a5
+} 
+/*.container{
+    width: 100%;
+    height: 3rem;
+    position: fixed;
+    background-color: chocolate;
+}*/
+
+  
