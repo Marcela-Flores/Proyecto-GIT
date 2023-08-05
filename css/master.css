@@ -4,7 +4,7 @@
 }
 .container{
     display: grid;
-    grid-template-rows: 1fr 6.5fr 0.3fr;
+    grid-template-rows: 1fr 6.5fr 0.4fr;
 }
 
 h1{
@@ -24,4 +24,5 @@ footer{
     background-color: black;
     color: aliceblue;
     text-align: center;
+    padding: 0.3rem;
 }
